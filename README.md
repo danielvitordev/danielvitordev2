@@ -12,6 +12,12 @@
 
 📚 Lendo: "O Homem Mais Rico da Babilônia" - George S. Clason
 
+###
+<br clear="both">
+
+![Snake animation](https://raw.githubusercontent.com/danielvitordev/danielvitordev/output/snake.svg)
+###
+
 ### Eu já trabalhei com... 🔧
 
 **Tecnologias e Ferramentas**
@@ -63,9 +69,3 @@
 <!--
 **academy-readme-template** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-###
-<br clear="both">
-
-![Snake animation](https://raw.githubusercontent.com/danielvitordev/danielvitordev/output/snake.svg)
-###
