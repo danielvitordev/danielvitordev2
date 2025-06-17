@@ -63,3 +63,9 @@
 <!--
 **academy-readme-template** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+###
+<br clear="both">
+
+![Snake animation](https://raw.githubusercontent.com/danielvitordev/danielvitordev/output/snake.svg)
+###
